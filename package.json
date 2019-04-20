@@ -1,0 +1,19 @@
+{
+  "name": "blog",
+  "version": "1.0.0",
+  "description": "Ideas, notes, quotes, all my mind's blips and trips",
+  "main": "index.js",
+  "scripts": {
+    "test": "vuepress dev"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ArnRdy/blog.git"
+  },
+  "author": "Arun Reddy",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ArnRdy/blog/issues"
+  },
+  "homepage": "https://github.com/ArnRdy/blog#readme"
+}
