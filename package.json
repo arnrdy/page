@@ -4,7 +4,8 @@
   "description": "Ideas, notes, quotes, all my mind's blips and trips",
   "main": "index.js",
   "scripts": {
-    "test": "vuepress dev"
+    "blog": "vuepress dev",
+    "build": "vuepress build"
   },
   "repository": {
     "type": "git",
